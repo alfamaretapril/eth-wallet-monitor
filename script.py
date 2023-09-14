@@ -48,3 +48,4 @@
 # fix 8243
 # refactor 5666
 # refactor 4339
+# fix 2532
