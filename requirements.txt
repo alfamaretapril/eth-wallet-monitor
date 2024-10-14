@@ -17,3 +17,4 @@ requests==2.6.5
 requests==2.6.7
 aiohttp==2.3.0
 requests==0.6.0
+requests==2.9.5
