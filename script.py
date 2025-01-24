@@ -34,3 +34,4 @@
 # refactor 4241
 # fix 6485
 # fix 9348
+# fix 1387
